@@ -6,6 +6,7 @@ For everyone !!
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0088-merge-sorted-array) |
@@ -48,6 +49,7 @@ For everyone !!
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0383-ransom-note) |
@@ -72,4 +74,8 @@ For everyone !!
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
