@@ -17,6 +17,7 @@ For everyone !!
 | [0169-majority-element](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0229-majority-element-ii) |
 | [0948-sort-an-array](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0948-sort-an-array) |
 | [1929-concatenation-of-array](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/1929-concatenation-of-array) |
 ## Bit Manipulation
@@ -45,6 +46,7 @@ For everyone !!
 | [0049-group-anagrams](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
@@ -56,6 +58,7 @@ For everyone !!
 | [0088-merge-sorted-array](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0242-valid-anagram) |
 | [0948-sort-an-array](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0948-sort-an-array) |
 ## String
@@ -73,6 +76,7 @@ For everyone !!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 ## Greedy
