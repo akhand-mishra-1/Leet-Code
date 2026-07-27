@@ -19,6 +19,7 @@ For everyone !!
 | [0217-contains-duplicate](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0229-majority-element-ii) |
 | [0948-sort-an-array](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0948-sort-an-array) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1929-concatenation-of-array](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/1929-concatenation-of-array) |
 ## Bit Manipulation
 |  |
@@ -62,6 +63,7 @@ For everyone !!
 | [0229-majority-element-ii](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0242-valid-anagram) |
 | [0948-sort-an-array](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0948-sort-an-array) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -102,6 +104,7 @@ For everyone !!
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0948-sort-an-array) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
