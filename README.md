@@ -18,6 +18,7 @@ For everyone !!
 | [0189-rotate-array](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0229-majority-element-ii) |
+| [0283-move-zeroes](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0283-move-zeroes) |
 | [0948-sort-an-array](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0948-sort-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1929-concatenation-of-array](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/1929-concatenation-of-array) |
@@ -35,6 +36,7 @@ For everyone !!
 | [0125-valid-palindrome](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0283-move-zeroes) |
 | [0680-valid-palindrome-ii](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0680-valid-palindrome-ii) |
 | [1894-merge-strings-alternately](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/1894-merge-strings-alternately) |
 ## Simulation
