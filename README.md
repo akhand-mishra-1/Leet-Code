@@ -20,6 +20,7 @@ For everyone !!
 | [0229-majority-element-ii](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0283-move-zeroes) |
 | [0948-sort-an-array](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0948-sort-an-array) |
+| [1019-squares-of-a-sorted-array](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/1019-squares-of-a-sorted-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1929-concatenation-of-array](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/1929-concatenation-of-array) |
 ## Bit Manipulation
@@ -38,6 +39,7 @@ For everyone !!
 | [0189-rotate-array](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0283-move-zeroes) |
 | [0680-valid-palindrome-ii](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0680-valid-palindrome-ii) |
+| [1019-squares-of-a-sorted-array](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/1894-merge-strings-alternately) |
 ## Simulation
 |  |
@@ -65,6 +67,7 @@ For everyone !!
 | [0229-majority-element-ii](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0242-valid-anagram) |
 | [0948-sort-an-array](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0948-sort-an-array) |
+| [1019-squares-of-a-sorted-array](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/1019-squares-of-a-sorted-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## String
 |  |
