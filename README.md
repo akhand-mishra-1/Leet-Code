@@ -18,6 +18,7 @@ For everyone !!
 | [0189-rotate-array](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0283-move-zeroes) |
 | [0948-sort-an-array](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/1019-squares-of-a-sorted-array) |
@@ -27,6 +28,7 @@ For everyone !!
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -54,6 +56,7 @@ For everyone !!
 | [0217-contains-duplicate](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 ## Sorting
@@ -66,6 +69,7 @@ For everyone !!
 | [0217-contains-duplicate](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0268-missing-number) |
 | [0948-sort-an-array](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/1019-squares-of-a-sorted-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -130,8 +134,10 @@ For everyone !!
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
