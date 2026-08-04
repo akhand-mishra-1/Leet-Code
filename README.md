@@ -85,6 +85,7 @@ For everyone !!
 | [0383-ransom-note](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0680-valid-palindrome-ii) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/1894-merge-strings-alternately) |
 | [4178-vowel-consonant-score](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/4178-vowel-consonant-score) |
 ## Counting
@@ -146,4 +147,5 @@ For everyone !!
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0219-contains-duplicate-ii) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
